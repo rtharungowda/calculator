@@ -1,5 +1,7 @@
 This is web application based calculator built in react.js
 
+## [Link to site](https://rtharungowda.github.io/calculator/)
+
 ![calculator](calculator.jpeg)
 
 
